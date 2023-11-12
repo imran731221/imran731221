@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Imran Shaikh
 - 🌱 I’m currently learning  Data analytics & Data Science 
-- 💞️ I’m looking to New opportunity 
+- 💞️ I’m looking for a new opportunity 
 - 📫 How to reach me by Gmail: meimranshaikh24@gmail.com
        OR by this number:+91 9875542080
 
